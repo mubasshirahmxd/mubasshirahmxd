@@ -115,7 +115,7 @@ From building websites (MERN) to building **intelligent systems (ML, GenAI, LLMs
 ## 🐍 Contribution Graph  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mubasshirahmxd/mubasshirahmxd/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/mubasshirahmxd/output/snake.svg" alt="snake animation"/>
 </p>
 
 
