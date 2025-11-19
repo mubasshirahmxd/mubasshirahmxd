@@ -25,7 +25,7 @@ From building websites (MERN) to building **intelligent systems (ML, GenAI, LLMs
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mubasshir3712/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mubasshirahmxd/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mubasshir3712@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://mubasshirsportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
@@ -33,7 +33,7 @@ From building websites (MERN) to building **intelligent systems (ML, GenAI, LLMs
 </p>
 
 <p align="center">
-  <a href="https://github.com/mubasshirahmed-3712/blob/main/Mubasshir_Ahmed_resume.pdf">
+  <a href="https://github.com/mubasshirahmxd/blob/main/Mubasshir_Ahmed_resume.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobeacrobatreader"/>
   </a>
 </p>
@@ -77,15 +77,15 @@ From building websites (MERN) to building **intelligent systems (ML, GenAI, LLMs
 
 ## 🚀 Featured Projects  
 
-🔹 [**End-to-End Retail Data Warehouse**](https://github.com/mubasshirahmed-3712/SQL-DataWarehouse-ETL-Analytics)  
+🔹 [**End-to-End Retail Data Warehouse**](https://github.com/mubasshirahmxd/SQL-DataWarehouse-ETL-Analytics)  
 *Architected a SQL Server Data Warehouse with Medallion Architecture, cutting ETL load time by **90%** and boosting BI query speed by **50%**.*  
 `SQL Server` `ETL` `Power BI`  
 
-🔹 [**EDA-GenAI Dashboard**](https://github.com/mubasshirahmed-3712/EDA-GenAI-Dashboard) | [Live Demo](https://eda-genai-dashboard.streamlit.app/)  
+🔹 [**EDA-GenAI Dashboard**](https://github.com/mubasshirahmxd/EDA-GenAI-Dashboard) | [Live Demo](https://eda-genai-dashboard.streamlit.app/)  
 *AI-powered dashboard that automates dataset cleaning, EDA, and generates instant insights using **Mistral-7B & LangChain**.*  
 `Python` `Streamlit` `Ollama` `LangChain`  
 
-🔹 [**Global Inflation Dashboard**](https://github.com/mubasshirahmed-3712/Global-Inflation-Dashboard)  
+🔹 [**Global Inflation Dashboard**](https://github.com/mubasshirahmxd/Global-Inflation-Dashboard)  
 *Power BI dashboard analyzing inflation across **150+ countries (1980–2024)**, cutting analysis time by **40%***  
 `Power BI` `DAX` `Analytics`
 
@@ -94,12 +94,12 @@ From building websites (MERN) to building **intelligent systems (ML, GenAI, LLMs
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mubasshirahmed-3712&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mubasshirahmed-3712&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mubasshirahmxd&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mubasshirahmxd&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mubasshirahmed-3712&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mubasshirahmxd&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -107,7 +107,7 @@ From building websites (MERN) to building **intelligent systems (ML, GenAI, LLMs
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mubasshirahmed-3712&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mubasshirahmxd&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -115,14 +115,14 @@ From building websites (MERN) to building **intelligent systems (ML, GenAI, LLMs
 ## 🐍 Contribution Graph  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mubasshirahmed-3712/mubasshirahmed-3712/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/mubasshirahmxd/mubasshirahmxd/output/snake.svg" alt="snake animation"/>
 </p>
 
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mubasshirahmed-3712&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=mubasshirahmxd&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
