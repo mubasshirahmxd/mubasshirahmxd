@@ -19,7 +19,7 @@ jobs:
       - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: mubasshirahmed
+          github_user_name: mubasshirahmxd
           outputs: dist/snake.svg
 
       - name: Push snake.svg to output branch
