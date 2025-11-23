@@ -1,3 +1,8 @@
+<!-- HERO BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Mubasshir%20Ahmed%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
+
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Mubasshir Ahmed</h1>
 <h3 align="center">🚀 Data Science & GenAI Enthusiast | Python • SQL • ML • Deep Learning • LLMs • Power BI | Ex-MERN Dev</h3>
@@ -134,4 +139,9 @@ From building websites (MERN) to building **intelligent systems (ML, GenAI, LLMs
 
 <p align="center">
   <b>💡 Open to collaborations & AI-driven opportunities — let’s connect!</b>
+</p>
+
+
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" /> 
 </p>
